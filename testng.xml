@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Owner/IdeaProjects/mytestNGProject/src/main/java/techproed/tests/listeners/ListenersTest2.java"><classes><class name="techproed.tests.listeners.ListenersTest2"><methods><include name="customerLogin"/></methods></class></classes></test></suite>
